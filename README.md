@@ -2,8 +2,7 @@
 A repository for beginners to learn python
 
 # ❔ About
-
-Python Version
+Node Version  
 [3.10.9](https://docs.python.org/3.10/)
 
 Code Editor  
