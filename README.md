@@ -1,4 +1,4 @@
-# python.py
+# 🎊 python.py
 A repository for beginners to learn python
 
 # ❔ About
