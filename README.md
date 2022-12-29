@@ -17,6 +17,8 @@ Code Editor
 
 4. You don't need to learn Python in one day, consume this repository in small amounts on daily basis
 
+5. The owner of this repository recommends you to read this [website](https://www.w3schools.com/python/default.asp) for further help
+
 # ❗ Report an error
 
 The owner of this repository is surely a human being and there might be some mistakes in any resource file
