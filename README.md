@@ -6,6 +6,15 @@ Python Version
 [3.10.9](https://docs.python.org/3.10/)
 
 Code Editor  
-[Visual Studio Code](https://code.visualstudio.com/download)    
+[Visual Studio Code](https://code.visualstudio.com/download) 
+
+# 📖 How to learn
+1. You need to clone this repository and host in your desired code editor
+
+2. The owner of this repository recommends you to go through each file and read comments
+
+3. You should olso create a blank folder where you should code yourself and play with Python 
+
+4. You don't need to learn Python in one day, consume this repository in small amounts on daily basis
 
 ### ⚠ This repository is a work in progress 
