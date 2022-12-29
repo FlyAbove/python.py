@@ -3,20 +3,12 @@
 # if and Elif statements always ends with :
 # else statement is triggered when none of the if or elif statement is true
 
-def check_age():
+number = -1 # You can change this number and check how program executes
 
-    age = input("Please enter your age: ")
-        
-    if age == 18:
-        print("You are an adult")
+if number > 0 :
+    print("Positive number")
 
-    elif age >= 12:
-        print("You are a child")
-
-    else:
-        print("You are baby")
-
-    return check_age()
-
-
-
+elif number == 0:
+    print('Zero')
+else:
+    print('Negative number')
