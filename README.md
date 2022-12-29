@@ -17,4 +17,10 @@ Code Editor
 
 4. You don't need to learn Python in one day, consume this repository in small amounts on daily basis
 
+# ❗ Report an error
+
+The owner of this repository is surely a human being and there might be some mistakes in any resource file
+
+To report an error and for information about how you can is listed [here](https://github.com/FlyAbove/python.py/security/policy)
+
 ### ⚠ This repository is a work in progress 
