@@ -1,4 +1,4 @@
-Contributing would be great as i'm a sole developer for this bot.
+Contributing would be great as iam only owner of this repository
 
 You can help contribute by:
 
