@@ -9,9 +9,9 @@ You can help contribute by:
 
 
 Your mail should contain:
-- Your application type.
-- Your experience in Python.
-- Your time zone.
+- Your experience in Python
+- Your time zone
+
 
 
 
