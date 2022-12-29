@@ -3,7 +3,7 @@
 # if and Elif statements always ends with :
 # else statement is triggered when none of the if or elif statement is true
 
-number = -1 # You can change this number and check how program executes
+number = 0 # You can change this number and check how program executes
 
 if number > 0 :
     print("Positive number")
