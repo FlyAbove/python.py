@@ -10,11 +10,11 @@ You can help contribute by:
 
 Your mail should contain:
 - Your application type.
-- Your experience in JavaScript or any programming language (if applying as a contributor).
+- Your experience in Python.
 - Your time zone.
-- Your working hours and when you are available.
-- Why do you want to join this project.
-- Why should we select you instead of someone else?
+
+
+
 
 # Note:
 Mass sending emails on the given email address would lead your email id black listed.
