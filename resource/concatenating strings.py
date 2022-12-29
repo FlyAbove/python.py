@@ -9,10 +9,16 @@ full_name = first_name+last_name
 
 print(full_name)
 
-# to have space between our first and last names we need to concatenate an empty string between two variables
+# to have space between our first and last names we need to concatenate an empty string with a space
+# between two variables
 
 first_name = "Michael"
 last_name = "James"
 full_name = first_name + " " + last_name
 
 print(full_name)
+
+# to concatenate two strings 
+
+a = "Iam" + " " + "a good" + " " + "boy"
+print(a)
