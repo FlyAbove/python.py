@@ -21,6 +21,6 @@ Code Editor
 
 The owner of this repository is surely a human being and there might be some mistakes in any resource file
 
-To report an error and for information about how you can is listed [here](https://github.com/FlyAbove/python.py/security/policy)
+For information on how you can report an error to the owner of this repository is listed [here](https://github.com/FlyAbove/python.py/security/policy)
 
 ### ⚠ This repository is a work in progress 
