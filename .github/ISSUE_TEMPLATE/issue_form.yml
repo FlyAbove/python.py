@@ -33,7 +33,7 @@ body:
       description: What version of our repository are you running?
       options:
         - 1.0.0 (Default)
-        - Other 
+        - Privately edited 
     validations:
       required: true
   - type: dropdown
