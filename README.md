@@ -1,5 +1,5 @@
-# <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/> </a> python.py </p> 
-A repository for beginners to learn Python
+# <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/></a> python.py</p>
+A repository managed by ❤ for beginners to learn Python
 
 # ❔ About
 Python Version  
@@ -7,6 +7,23 @@ Python Version
 
 Code Editor  
 [Visual Studio Code](https://code.visualstudio.com/download) 
+
+# 📁 Installation
+
+To download Python, type the following in command prompt
+```
+pip install python
+```
+
+To check if Python is downloaded correctly, type the following in command prompt 
+
+```
+python -V
+```
+To clone the repository, type the following in your Visual Studio Code terminal
+```
+git clone https://github.com/FlyAbove/python.py.git
+``` 
 
 # 📖 How to learn
 1. You need to clone this repository and host in your desired code editor
@@ -21,7 +38,7 @@ Code Editor
 
 # ❗ Report an error
 
-The owner of this repository is surely a human being and there might be some mistakes in any resource file
+The owner of this repository is surely a human being and there might be some mistakes in any of the file
 
 For information on how you can report an error to the owner of this repository is listed [here](https://github.com/FlyAbove/python.py/security/policy#reporting-a-bug)
 
