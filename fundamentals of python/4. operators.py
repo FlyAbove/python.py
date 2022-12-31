@@ -12,7 +12,7 @@ a * b # Multiply operation, * represents multiplication operator
 a / b # Divide operation, / represents division operator
 a % b # Modulus operation, % represents modulus operator
 a **b # Expotention operation, ** represents exponent operator
-a //b # Double operation, // represents double division operator
+a //b # FLOOR division operation, // represents floor division operator
 
 # Assignment operators are used to assign values to variables that
 
