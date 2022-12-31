@@ -44,7 +44,7 @@ a >= b # Greater than or equal to operations, >= represents greater than or equa
 a <= b # Less than or equal to operations, <= represents less than or equal to operations
 
 
-# Logical operators are used to combine conditional statements
+# Logical/ Boolean operators are used to combine conditional statements
 
 # Some valid logical operations are written down below
 
@@ -66,7 +66,7 @@ a is not b # Returns true if both variables are not the same object
 a in b # Returns True if a sequence with the specified value is present in the object
 a not in b # Returns True if a sequence with the specified value is not present in the object
 
-# Bitwise operators are used to compare binary numbers 
+# Bitwise operators are used to compare binary numbers ( Rarely used)
 
 # Bitwise operators are written down below
 
