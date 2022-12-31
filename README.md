@@ -10,10 +10,11 @@ Code Editor
 
 # 📁 Installation
 
-Type ```
+Type
+```
 git clone https://github.com/FlyAbove/python.py.git
-``` in your Visual Studio Code terminal
-
+``` 
+in your Visual Studio Code terminal
 
 # 📖 How to learn
 1. You need to clone this repository and host in your desired code editor
