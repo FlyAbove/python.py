@@ -32,6 +32,18 @@ a ^= b # Bitwise XOR assignment operator
 a >>= b # Bitwise right shift operator
 a <<= b # Bitwise left shift operator
 
+# Comparision operators are used to compare two values
+
+# Some valid comparision operations are written down below
+
+a == b # Equal to operations, == represents equal to operator
+a != b # Not equal to operations, != represents not equal to operator
+a > b # Greater than operations, > represents greater than operator
+a < b # Less than operations, < represents less than operator
+a >= b # Greater than or equal to operations, >= represents greater than or equal to operations
+a <= b # Less than or equal to operations, <= represents less than or equal to operations
+
+
 # Logical operators are used to combine conditional statements
 
 # Some valid logical operations are written down below
