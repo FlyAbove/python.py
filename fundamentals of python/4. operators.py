@@ -6,7 +6,7 @@
 
 # Some valid arithmetic operations are written down below
 
-a + b # Addition operation, + represents addition operator
+a + b # Addition operation, + represents addition operator, + operator is olso used to concatenate two strings
 a - b # Subtraction operation, - represents subtraction operator
 a * b # Multiply operation, * represents multiplication operator
 a / b # Divide operation, / represents division operator
