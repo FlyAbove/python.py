@@ -10,7 +10,10 @@ Code Editor
 
 # 📁 Installation
 
-First download [Python 3.10.9](https://www.python.org/downloads/) 
+To download Python, type the following in command prompt
+```
+pip install python
+```
 
 To check if Python is downloaded correctly, type the following in command prompt 
 
