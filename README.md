@@ -38,7 +38,7 @@ git clone https://github.com/FlyAbove/python.py.git
 
 # ❗ Report an error
 
-The owner of this repository is surely a human being and there might be some mistakes in any resource file
+The owner of this repository is surely a human being and there might be some mistakes in any file
 
 For information on how you can report an error to the owner of this repository is listed [here](https://github.com/FlyAbove/python.py/security/policy#reporting-a-bug)
 
