@@ -10,17 +10,17 @@ Code Editor
 
 # 📁 Installation
 
-To download Python, type the following in command prompt
+To download Python, type the following command in the command prompt
 ```
 pip install python
 ```
 
-To check if Python is downloaded correctly, type the following in command prompt 
+To check if Python is downloaded correctly, type the following command in the command prompt 
 
 ```
 python -V
 ```
-To clone the repository, type the following in your Visual Studio Code terminal
+To clone the repository, type the following command in your Visual Studio Code terminal
 ```
 git clone https://github.com/FlyAbove/python.py.git
 ``` 
