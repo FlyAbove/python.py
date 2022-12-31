@@ -1,4 +1,5 @@
-![wp3105552](https://user-images.githubusercontent.com/76478580/210149612-2dc2d837-683f-46f9-a822-3f0f8593b35a.jpg)
+![5848152fcef1014c0b5e4967](https://user-images.githubusercontent.com/76478580/210149664-d2c13f47-9fc1-46f5-918e-a152a6ee36bc.png)
+
 # <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/></a> python.py</p> 
 A repository managed by ❤ for beginners to learn Python
 
