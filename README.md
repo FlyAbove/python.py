@@ -1,4 +1,4 @@
-# <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="2%" height="2%"/></a> python.py</p> 
+# <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="4%" height="4%"/></a> python.py</p> 
 A repository for beginners to learn Python
 
 # ❔ About
