@@ -1,10 +1,11 @@
 import random
+
 def get_choices():
 
     player_choice = input("Choose rock paper or scissors") # This is value inputted from user
     options = ["rock", "paper", "scissors"] # This is our lists of options
     computer_choice = random.choice(options) # This uses random library to choose random item from our list
-    choices = {'computer chosed': computer_choice, 'player chosed': player_choice} #This is our dictionary of choices
+    choices = {"computer chosed": computer_choice, "player chosed": player_choice} #This is our dictionary of choices
 
     return choices # The function get_choices is going to return "choices" in console when function is called
 
@@ -18,7 +19,8 @@ print(choices) # The variable is then printed in console
 
 # To access value from dictionary
 
-accessing_value = choices['computer chosed']
+accessing_value = choices["computer chosed"]
+print(f'We successfully accessed "{accessing_value}" key from our dictionary')
 
 # So here we created a variable "accessing_value" which is the value of "computer chosed" key 
 # The "choices" actually tells the program to access the choices dictionary and "computer chosed" is actually telling the program to access the "computer chosed" keyS
