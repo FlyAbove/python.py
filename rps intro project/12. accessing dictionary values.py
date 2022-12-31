@@ -10,7 +10,6 @@ def get_choices():
     return choices # The function get_choices is going to return "choices" in console when function is called
 
 choices = get_choices() # Here we mention variable choices as our function
-print(choices) # The variable is then printed in console
 
 # choices = {'computer chosed': computer_choice, 'player chosed': player_choice}
 # So we need to learn how to access the element "player_choice" from this dictionary

@@ -1,9 +1,9 @@
-# libraries help your program do certain features without programming them yourself
-# usually written on the top of your file
-# to import a library we use import "library name"
+# Libraries help your program do certain features without programming them yourself
+# Usually written on the top of your file
+# To import a library we use import "library name"
 
 
-# now we are going to try create a program which will allow computer to play rps
+# Now we are going to try create a program which will allow computer to play rps without pre defined variable
 
 import random
 
