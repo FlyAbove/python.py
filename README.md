@@ -12,16 +12,15 @@ Code Editor
 
 First download [Python 3.10.9](https://www.python.org/downloads/) 
 
+
 To check if Python is downloaded correctly, type in command prompt 
 
 ```
 python -V
-
 ```
 To clone the repository, type the following in your Visual Studio Code terminal
 ```
 git clone https://github.com/FlyAbove/python.py.git
-
 ``` 
 
 # 📖 How to learn
