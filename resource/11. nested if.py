@@ -1,7 +1,7 @@
 # you can put an if statement in another else, if or elif statement, in short if statements inside other if statements, so called nested if statements
 
 
-mark =  input("Input your marks")
+mark = 80 # Change the numbers and check how program executes itself
 
 if mark >= 60 and mark <= 100:
     if mark >= 90:
