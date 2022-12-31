@@ -12,8 +12,7 @@ Code Editor
 
 First download [Python 3.10.9](https://www.python.org/downloads/) 
 
-
-To check if Python is downloaded correctly, type in command prompt 
+To check if Python is downloaded correctly, type the following in command prompt 
 
 ```
 python -V
