@@ -19,8 +19,8 @@ There are a couple of ways on how you can contribute to the project:
 Your PR is valuable to us, and to make sure we can integrate it smoothly, we have a few items for you to consider. In short:
 The minimum requirements for code contributions are:
 
-1. The code _must_ be compliant with the configured best practices for the language.
-2. All new and changed code _should_ have a corresponding unit and/or integration test.
+1. The code **must** be compliant with the configured best practices for the language.
+2. All new and changed code **should** have a corresponding unit and/or integration test.
 
 Additionally, the following guidelines can help:
 
@@ -29,7 +29,7 @@ Additionally, the following guidelines can help:
 Pull requests should be as small/atomic as possible. Large, wide-sweeping changes in a pull request will be **rejected**, with comments to isolate the specific code in your pull request. Some examples:
 
 * If you are making spelling corrections in the docs, don't modify other files.
-* If you are adding new functions don't '_cleanup_' unrelated functions. That cleanup belongs in another pull request.
+* If you are adding new functions don't **cleanup** unrelated functions. That cleanup belongs in another pull request.
 
 ### Write a good commit message
 
