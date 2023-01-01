@@ -30,7 +30,7 @@ body:
     id: version
     attributes:
       label: Version
-      description: What version of our repository are you running?
+      description: What version of the repository are you running?
       options:
         - 1.0.0 (Default)
         - Privately edited 
