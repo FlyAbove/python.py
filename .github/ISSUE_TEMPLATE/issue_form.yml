@@ -15,7 +15,7 @@ body:
     id: example
     attributes:
       label: Example of the code
-      description: Please copy down the code from the file from which you have an issue, it can be privately edited one too
+      description: Please copy down the code from the file you encountered an issue
       render: python
     validations:
       required: true
@@ -23,8 +23,8 @@ body:
     id: repo-version
     attributes:
       label: Version
-      description: What version of our repository you were using
-      placeholder: "v1.0.0"
+      description: What was the version of our repository
+      placeholder: "v1.0.0, Others"
     validations:
       required: true
   - type: textarea
