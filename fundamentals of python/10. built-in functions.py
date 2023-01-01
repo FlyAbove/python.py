@@ -9,7 +9,9 @@ roundoff = round(numb)
 print(absolute)
 print(roundoff)
 
-
+numb2 = 5.49
+round2 = round(numb2, 1) # The ,1 is going to round of 5.49 to 1 decimal point instead of rounding off to nearest integer value
+print(round2)
 
 # All built in functions of Python are listed down below
 
