@@ -10,8 +10,8 @@ This document describes how you can contribute to python.py. Please read it care
 
 There are a couple of ways on how you can contribute to the project:
 
-* **File [issues](https://github.com/FlyAbove/python.py/issues/new/choose)** for missing content or specifically for the binaries here
-* **Create a [pull request](https://github.com/FlyAbove/python.py/pulls "Create a pull request")**. This is a direct contribution to the project and may be merged after review. You should ideally [create an issue](https://github.com/FlyAbove/python.py/issues/new/choose "python.py Issues") for any pull request you would like to submit, as we can first review the merit of the PR and avoid any unnecessary work. This is of course not needed for small modifications such as correcting typos.
+* File [issues](https://github.com/FlyAbove/python.py/issues/new/choose) for missing content or specifically for the binaries here
+* Create a [pull request](https://github.com/FlyAbove/python.py/pulls "Create a pull request"). This is a direct contribution to the project and may be merged after review. You should ideally [create an issue](https://github.com/FlyAbove/python.py/issues/new/choose "python.py Issues") for any pull request you would like to submit, as we can first review the merit of the PR and avoid any unnecessary work. This is of course not needed for small modifications such as correcting typos.
 * Promote us by giving us a Star or share information via social media.
 
 ## How to get your Pull Request accepted
