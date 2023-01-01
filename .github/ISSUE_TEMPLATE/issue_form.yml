@@ -4,10 +4,10 @@ labels: ["", ""]
 assignees:
   
 body:
-- type: textarea
+  - type: textarea
     attributes:
       value: |
-      "thanks"
+      
   - type: input
     id: contact
     attributes:
