@@ -14,7 +14,7 @@ Thank you for improving the security of `standard`. We appreciate your efforts a
 responsible disclosure and will make every effort to acknowledge your
 contributions.
 
-Report security bugs by opening a bug report issue from https://github.com/FlyAbove/python.py/issues/new/choose
+Report security bugs by opening a [bug report issue](https://github.com/FlyAbove/python.py/issues/new/choose)
 
 
 
