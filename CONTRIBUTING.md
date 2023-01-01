@@ -43,7 +43,7 @@ Pull requests should be as small/atomic as possible. Large, wide-sweeping change
 
 Although we greatly appreciate any and all contributions to the project, there are a few things that you should take into consideration:
 
-* The Wrongsecrets project should not be used as a platform for advertisement for commercial tools, companies or individuals. Write-ups should be written with free and open-source tools in mind and commercial tools are typically not accepted, unless as a reference in the security tools section.
+* The python.py project should not be used as a platform for advertisement for commercial tools, companies or individuals. Write-ups should be written with free and open-source tools in mind and commercial tools are typically not accepted, unless as a reference in the security tools section.
 * Unnecessary self-promotion of tools or blog posts is frowned upon. If you have a relation with on of the URLs or tools you are referencing, please state so in the PR so that we can verify that the reference is in line with the rest of the guide.
 
 Please be sure to take a careful look at our [Code of Conduct](https://github.com/FlyAbove/python.py/blob/main/CODE_OF_CONDUCT.md)
