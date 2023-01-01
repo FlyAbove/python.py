@@ -1,5 +1,5 @@
-name: Bug Report
-description: Submit a report if you believe you've found a bug in Dymos.
+name: Issue Form
+description: File an issue you encountered while learning from our repository.
 labels: [""]
 assignees:
   - 
