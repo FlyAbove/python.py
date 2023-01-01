@@ -1,5 +1,5 @@
 # <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/></a> python.py</p>
-A repository managed by ❤ for beginners to learn Python
+A repository managed with ❤ for beginners to learn Python
 
 # ❔ About
 Python Version  
