@@ -4,7 +4,6 @@ This document describes how you can contribute to python.py. Please read it care
 **Table of Contents**
 
 * [How to Contribute to the Project](#how-to-contribute-to-the-project)
-* [How to set up your Contributor Environment](#how-to-set-up-your-contributor-environment)
 * [How to get your Pull Request Accepted](#how-to-get-your-pr-accepted)
 
 ## How to Contribute to the project
