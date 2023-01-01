@@ -2,33 +2,33 @@ name: Issue form
 description: File an issue you encountered while learning from our repository.
 labels: ["issue"]
 assignees:
-  - reporter
+  - issue reporter
 body:
   - type: textarea
     id: description
     attributes:
       label: Description
-      description: Please explain what is happening and how it differs from the expected behavior.
+      description: Please explain what is happening and how it differs from the expected behavior
     validations:
       required: true
   - type: textarea
     id: example
     attributes:
       label: Example of the code
-      description: Please copy down the code from the file from which you have an issue
+      description: Please copy down the code from the file from which you have an issue, it can be privately edited one too
       render: python
     validations:
       required: true
   - type: input
-    id: dymos-version
+    id: repo-version
     attributes:
       label: Version
       description: What version of our repository you were using
-      placeholder: "1.6.2-dev"
+      placeholder: "v1.0.0"
     validations:
       required: true
   - type: textarea
     id: environment
     attributes:
-      label: Relevant environment information
-      description: If applicable, please provide versions of relevant dependencies (numpy, scipy, MPI, etc).  This can be obtained from `pip freeze`.
+      label: Any other information
+      description: Suggestions on how we can fix the issue
