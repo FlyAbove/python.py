@@ -1,8 +1,8 @@
-name: Issue Form
+name: Issue form
 description: File an issue you encountered while learning from our repository.
-labels: [""]
+labels: ["issue"]
 assignees:
-  - 
+  - reporter
 body:
   - type: textarea
     id: description
@@ -22,8 +22,8 @@ body:
   - type: input
     id: dymos-version
     attributes:
-      label: Dymos Version
-      description: What version of Dymos is being used.
+      label: Version
+      description: What version of our repository you were using
       placeholder: "1.6.2-dev"
     validations:
       required: true
