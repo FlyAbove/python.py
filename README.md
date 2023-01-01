@@ -26,14 +26,12 @@ git clone https://github.com/FlyAbove/python.py.git
 ``` 
 
 # 📖 How to learn
-1. You need to clone this repository and host in your desired code editor
 
-2. The owner of this repository recommends you to go through each file and read comments 
+1. The owner of this repository recommends you to go through each file and read comments 
 
-3. You should olso create a blank folder where you should code and play with Python yourself
+2. You should olso create a blank folder where you should code and play with Python yourself
 
-4. You don't need to learn Python in one day, consume this repository in small amounts on daily basis
-
+3. You don't need to learn Python in one day, consume this repository in small amounts on daily basis
 
 # ❗ Report an error
 
