@@ -39,6 +39,6 @@ git clone https://github.com/FlyAbove/python.py.git
 
 The owner of this repository is surely a human being and there might be some mistakes in any of the file
 
-For information on how you can report an error to the owner of this repository is listed [here](https://github.com/FlyAbove/python.py/security/policy#reporting-a-bug)
+To report an issue please click [here](https://github.com/FlyAbove/python.py/issues/new/choose)
 
 ### ⚠ This repository is a work in progress 
