@@ -14,8 +14,8 @@ body:
   - type: textarea
     id: example
     attributes:
-      label: Example
-      description: Please provide an example of the code that triggers the unexpected behavior. If possible, we would appreciate a minimal test case that reproduces the issue. Alternatively, link to a file in another repository where the issue is demonstrated.
+      label: Example of the code
+      description: Please copy down the code from the file from which you have an issue
       render: python
     validations:
       required: true
