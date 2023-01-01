@@ -24,7 +24,7 @@ body:
     attributes:
       label: Version
       description: What was the version of our repository
-      placeholder: "v1.0.0, Others"
+      placeholder: "for ex: v1.0.0, privately edited"
     validations:
       required: true
   - type: textarea
