@@ -75,5 +75,5 @@ print(roundoff)
 # super()	Returns an object that represents the parent class
 # tuple()	Returns a tuple
 # type()	Returns the type of an object
-# vars()	Returns the __dict__ property of an object
+# vars()	Returns the dict property of an object
 # zip()	Returns an iterator, from two or more iterators
