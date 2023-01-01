@@ -1,5 +1,8 @@
 name: Feature request
 description: Suggest an idea for this project
+labels: ["feature request"]
+assignees:
+  - feature requester
 body:
   - type: textarea
     id: is-your-feature-request-related-to-a-problem-please-describe
