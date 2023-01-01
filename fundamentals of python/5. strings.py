@@ -15,6 +15,12 @@ full_name = name + " " + last_name
 
 print(full_name)
 
+# To concatenate strings with variables we use f strings
+# The variable is enclosed in {} brackets 
+
+name1 = "John"
+full_name = f"My full name is {name1} Smith"
+
 # We can create multi line strings using """ """ syntax
 
 multi_string = """ 
