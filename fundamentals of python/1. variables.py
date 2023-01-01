@@ -12,5 +12,3 @@
 name = "your name" # This variable is assigned to a string
 _age_ = 39 # This variable is assigned to a number
 marks = 3.7 # This variable is assigned to a float
-
-
