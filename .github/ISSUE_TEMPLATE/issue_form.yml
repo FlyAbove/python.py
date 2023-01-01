@@ -1,5 +1,5 @@
 name: Issue form
-description: File an issue you encountered while learning from our repository.
+description: File an issue you encountered while learning from our repository
 labels: ["issue"]
 assignees:
   - issue reporter
