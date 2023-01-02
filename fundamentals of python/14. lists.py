@@ -50,8 +50,19 @@ plus += ["coffee", "at" "www.buymeacoffee.com/flyabove"]
 
 print(plus)
 
+# We can add any value in a list at any specified index using .insert
+
+items = ["please", "give", "to the repository"]
+items.insert(2, "a star") # 2 specify the index in the list, "a star" is the value added at the specified index
+print(items)
+
 # We can remove any value from a list just like we can add one
 
 remove = ["remove me", "leave me"]
 remove.remove("remove me")
 print(remove)
+
+# We use .pop to return and remove the last item from the list
+
+value = ["first value", "second value", "this value will be removed and returned"]
+print(value.pop())
