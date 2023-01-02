@@ -32,3 +32,15 @@ slicing = update[0:3]
 
 print(update)
 print(slicing)
+
+# There are two methods to add a value in a list without replacing the original value 1. append 2. extend
+# Append method only takes one value as an argument
+
+integers = [0, 1, 2, 3, 4]
+integers.append(5)
+
+# Extend is use to combine to lists 
+
+integers.extend([6, 7, 8, "End"])
+
+print(integers)
