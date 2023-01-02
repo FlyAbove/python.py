@@ -28,4 +28,7 @@ update = ["1", "2", "4", "4"]
 
 update[0] = 1
 update[2] = "3"
+slicing = update[0:3]
+
 print(update)
+print(slicing)
