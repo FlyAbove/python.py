@@ -39,8 +39,19 @@ print(slicing)
 integers = [0, 1, 2, 3, 4]
 integers.append(5)
 
-# Extend is use to combine to lists 
+# Extend is use to combine to lists, you can olso use += operator to function the same as an extend function
 
 integers.extend([6, 7, 8, "End"])
 
 print(integers)
+
+plus = ["Buy", "me", "a"]
+plus += ["coffee", "at" "www.buymeacoffee.com/flyabove"]
+
+print(plus)
+
+# We can remove any value from a list just like we can add one
+
+remove = ["remove me", "leave me"]
+remove.remove("remove me")
+print(remove)
