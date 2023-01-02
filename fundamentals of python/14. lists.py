@@ -5,7 +5,27 @@
 # Some valid examples of lists are written down below
 
 food = ['pizza', 'burger', 'bread', '']
-print(food)
-
+empty_list = []
+not_empty_list = [""]
 different_data_type_list = ["string", 10, 10.7, 1+1j, food]
+
+print(food)
+print(len(empty_list))
+print(len(not_empty_list))
 print(different_data_type_list)
+
+# To check if any value is in the list we use the in operator
+
+print(1 in food) # Integer 1 is not in list named food, it is going to return False
+
+# To access any value from the list by refrencing them by their indexes
+
+print(food[0])
+
+# You can olso update any value in a string by refrencing them by their indexes
+
+update = ["1", "2", "4", "4"]
+
+update[0] = 1
+update[2] = "3"
+print(update)
