@@ -22,6 +22,13 @@ if "name" in dictionary:
 else:
     print("sorry")
 
+# We can get all keys and values from a dictionary using .keys() and values() functions respectively
+
+keys = {"name": "John", "age": 18, "gender": "male"}
+
+print(keys.keys())
+print(keys.values())
+
 # We can olso modify the value of a key in a dictionary
 
 dictionary['name'] = input("Enter your name: ")
