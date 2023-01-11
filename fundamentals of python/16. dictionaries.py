@@ -14,6 +14,14 @@ print(dictionary.get("grade"))
 
 print(dictionary.popitem())
 
+# To check if a key exists in any of the dictionary we use in function
+
+if "name" in dictionary:
+    print(f"Key called name is present in dictionary")
+
+else:
+    print("sorry")
+
 # We can olso modify the value of a key in a dictionary
 
 dictionary['name'] = input("Enter your name: ")
