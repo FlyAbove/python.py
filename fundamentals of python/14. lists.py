@@ -46,7 +46,7 @@ integers.extend([6, 7, 8, "End"])
 print(integers)
 
 plus = ["Buy", "me", "a"]
-plus += ["coffee", "at" "www.buymeacoffee.com/flyabove"]
+plus += ["coffee", "at", "www.buymeacoffee.com/flyabove"]
 
 print(plus)
 
