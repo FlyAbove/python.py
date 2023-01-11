@@ -33,6 +33,19 @@ print(keys.values())
 
 print(list(dictionary.items()))
 
+# To add and delete a key value pair in dictionary
+
+dictionary["key"] = "value"
+print(dictionary)
+
+del dictionary["grade"]
+print(dictionary)
+
+# To copy a dictionary we use .copy() function
+
+newDictionary = dictionary.copy()
+print(newDictionary)
+
 # We can olso modify the value of a key in a dictionary
 
 dictionary['name'] = input("Enter your name: ")
