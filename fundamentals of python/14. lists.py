@@ -78,6 +78,7 @@ print(slicing)
 # Python sorts upper case letter first and then lower case
 
 lists = ["Ball", "Bat", "Apple", "apple", "Dog" ] # Apple comes first as the letter A is the first alphabet
+original_lists = lists[:] 
 lists.sort()
 print(lists)
 
@@ -86,3 +87,8 @@ print(lists)
 lists.sort(key = str.upper)
 print(lists)
 
+# Sorting modifies the original list and returns a new list 
+# If you want to have a copy of an original list we use empty slicing
+# The original list should be mentioned above sorting function to avoid Python modifying the original list
+
+print(original_lists)
