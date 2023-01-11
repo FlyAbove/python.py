@@ -92,3 +92,9 @@ print(lists)
 # The original list should be mentioned above sorting function to avoid Python modifying the original list
 
 print(original_lists)
+
+# If you want to sort a list without modifying the original list, we use global function called sorted
+
+sorting = ["Cat", "air", "Book", "vsCode"]
+print(sorted(sorting, key = str.lower)) # This creates a new list which doesn't modifies the original list
+print(sorting)
