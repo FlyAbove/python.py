@@ -5,3 +5,11 @@
 dictionary = { "school": "idk", "name": "John", "grade": "10", 7: "int", ("tuple"): "tuple" }
 print(dictionary)
 
+# If you need to print a value of a key we use print(dict_name["key_name"])
+
+print(dictionary["school"])
+
+# We can olso modify the value of a key in a dictionary
+
+dictionary['name'] = input("Enter your name: ")
+print(dictionary['name'])
