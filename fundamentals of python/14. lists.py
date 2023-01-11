@@ -66,3 +66,23 @@ print(remove)
 
 value = ["first value", "second value", "this value will be removed and returned"]
 print(value.pop())
+
+# To add multiple items in a list we use slicing
+
+slicing = [1, 2, 3, 6]
+slicing [3:3] = [4, 5] 
+print(slicing)
+
+# We can sort our lists using .sort()
+# The list should contain only one data type
+# Python sorts upper case letter first and then lower case
+
+lists = ["Ball", "Bat", "Apple", "apple", "Dog" ] # Apple comes first as the letter A is the first alphabet
+lists.sort()
+print(lists)
+
+# To ignore lower case and upper case sorting we use .sort(key = data_type.lower/upper)
+
+lists.sort(key = str.upper)
+print(lists)
+
