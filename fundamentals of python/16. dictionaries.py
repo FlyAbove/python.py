@@ -29,6 +29,10 @@ keys = {"name": "John", "age": 18, "gender": "male"}
 print(keys.keys())
 print(keys.values())
 
+# To convert every item in a dictionary into a list we used list(dict_name.items())
+
+print(list(dictionary.items()))
+
 # We can olso modify the value of a key in a dictionary
 
 dictionary['name'] = input("Enter your name: ")
