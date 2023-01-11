@@ -5,11 +5,14 @@
 dictionary = { "school": "idk", "name": "John", "grade": 10, 7: "int", ("tuple"): "tuple" }
 print(dictionary)
 
-# If you need to print a value of a key we use print(dict_name["key_name"])
+# If you need to print a value of a key we use print(dict_name["key_name"]) or dict_name.get("key")
 
 print(dictionary["school"])
 print(dictionary.get("grade"))
 
+# To remove and return last key value pair in a dictionary we use .popitem()
+
+print(dictionary.popitem())
 
 # We can olso modify the value of a key in a dictionary
 
