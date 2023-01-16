@@ -10,12 +10,7 @@ Code Editor
 
 # 📁 Installation
 
-To download Python, type the following command in the command prompt
-```
-pip install python
-```
-
-To check if Python is downloaded correctly, type the following command in the command prompt 
+To check if you have Python  downloaded, type the following command in the command prompt 
 
 ```
 python -V
