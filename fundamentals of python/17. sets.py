@@ -30,4 +30,9 @@ print(difference)
 subset = set2 > set1
 print(subset)
 
+# We can check if elements of two sets are equal 
+
+equal = set1 == set2
+print(equal)
+
 
