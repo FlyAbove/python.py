@@ -1,5 +1,6 @@
 # Sets is a collection of data which is unordered, unchangeable and unindexed
 # Set items are unchangeable, but you can remove items and add new items
+# Sets cannot have duplicate elements
 
 # Some valid examples of sets are written down below
 
