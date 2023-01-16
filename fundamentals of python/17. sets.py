@@ -17,3 +17,9 @@ print(intersection)
 
 union = set1 | set2 
 print(union)
+
+# We can take difference of two sets line we take on in maths
+
+differecne = set1 - set2
+print(differecne)
+
