@@ -34,4 +34,4 @@ The owner of this repository is surely a human being and there might be some mis
 
 To report an issue please click [here](https://github.com/FlyAbove/python.py/issues/new/choose)
 
-### ⚠ This repository is a work in progress 
+### ⚠ Work of this repository is on hold due to owner being unable to get enough time to work on it
